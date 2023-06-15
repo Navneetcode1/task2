@@ -1,0 +1,20 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "note": "This my First Notes"
+    },
+    {
+      "id": 2,
+      "note": "This my Second Notes"
+    },
+    {
+      "id": 4,
+      "note": "Book name is All is well"
+    },
+    {
+      "id": 5,
+      "note": "My Birthday Date: 12-12-2023"
+    }
+  ]
+}
